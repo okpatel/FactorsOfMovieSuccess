@@ -52,6 +52,6 @@ To run the project or reproduce the analysis:
   - Matplotlib/Seaborn (for visualization)
   - Jupyter Notebook (optional for interactive analysis)
 
-##Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/yourusername/the-success-of-a-movie.git
