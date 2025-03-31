@@ -56,3 +56,23 @@ To run the project or reproduce the analysis:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/the-success-of-a-movie.git
+2. Install dependencies:
+   ```bash
+    pip install -r requirements.txt 
+3. Open the Jupyter Notebook:
+ ```bash
+  jupyter notebook The_Success_of_a_Movie.ipynb
+
+  
+
+
+
+ 
+
+  
+
+
+  
+
+
+  
