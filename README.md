@@ -1,4 +1,4 @@
-# FactorsOfMovieSuccess
+# Factors Of Movie Success
 
 ## Overview
 The Success of a Movie is a data analysis project that explores various factors contributing to the success of movies. This project uses a dataset containing information about thousands of movies, including their ratings, genres, budgets, gross earnings, and other attributes. The goal is to analyze trends and patterns that influence a movie's performance.
